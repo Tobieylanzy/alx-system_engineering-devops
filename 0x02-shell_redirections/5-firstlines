@@ -1,0 +1,2 @@
+#!/bbinbash
+head /etc/passwd
